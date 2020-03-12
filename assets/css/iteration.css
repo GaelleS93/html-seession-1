@@ -1,0 +1,18 @@
+main {margin: 50px }
+
+table.un, th, td {border: 1px solid black}
+
+table.deux {border-collapse: collapse}
+
+.rouge {color: red}
+
+.bleu {color: blue}
+
+.vert {color: green}
+
+img {float: right;
+margin-right: 700px}
+
+p {clear: both}
+
+
